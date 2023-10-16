@@ -3,7 +3,8 @@
 #include <stdio.h>
 /* more headers goes there */
 
-/* betty style doc for function main goes there 
+/*
+ * betty style doc for function main goes there
  *
  * main - Entry point
  *
@@ -19,13 +20,13 @@ int main(void)
 	/* your code goes there */
 
 	if (n > 0)
-                printf("%d is positive\n", n);
+		printf("%d is positive\n", n);
 
 	if (n < 0)
-                printf("%d is negative\n", n);
+		printf("%d is negative\n", n);
 
 	if (n == 0)
-		printf(" 0 is zero\n");
+		printf("0 is zero\n");
 
 	return (0);
 }
