@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * int _abs - compute absolute value
+ * _abs - compute absolute value
  * Return: Always 0 (Success)
  * @n: outpout num
  */
