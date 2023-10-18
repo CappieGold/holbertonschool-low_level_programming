@@ -1,9 +1,10 @@
 #include "main.h"
 
 /**
- * int add - return a + b
+ * add - return a + b
  * @a: number
  * @b: number
+ * Return: a + b
  */
 
 int add(int a, int b)
