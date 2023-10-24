@@ -20,6 +20,5 @@ void rev_string(char *s)
 		swap = s[index2];
 		s[index2] = s[index];
 		s[index] = swap;
-		
 	}
 }
