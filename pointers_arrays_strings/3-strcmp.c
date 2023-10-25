@@ -15,8 +15,11 @@ int _strcmp(char *s1, char *s2)
 	while (s1[index])
 	{
 		if (s1[index] != s2[index])
+		{
 			sum = s1[index] - s2[index];
-		return (sum);
+			return (sum);
+		}
+		index++;
 	}
-	return (0);
+	return (sum);
 }
