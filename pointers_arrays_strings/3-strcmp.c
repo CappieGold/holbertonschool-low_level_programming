@@ -4,6 +4,7 @@
  * _strcmp - Write a function that compares two strings.
  * @s1: string 1
  * @s2: string 2
+ * Return: un truc
  */
 
 int _strcmp(char *s1, char *s2)
@@ -17,5 +18,5 @@ int _strcmp(char *s1, char *s2)
 			sum = s1[index] - s2[index];
 		return (sum);
 	}
-	return (sum);
+	return (0);
 }
