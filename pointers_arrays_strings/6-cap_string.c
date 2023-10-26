@@ -10,7 +10,7 @@ char *cap_string(char *str)
 {
 	int index = 0;
 
-	for (index = 0; str[index] != '\0'; index ++)
+	for (index = 0; str[index] != '\0'; index++)
 	{
 		if (str[index - 1] == ' ' ||
 				str[index - 1] == '\t' ||
