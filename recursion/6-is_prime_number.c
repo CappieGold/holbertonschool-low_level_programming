@@ -26,7 +26,7 @@ int is_prime_number(int n)
 {
 
 	if (n >= 2 && n <= 3)
-		return(1);
+		return (1);
 	if (n < 2)
 		return (0);
 	return (find_prime_num(n, 2));
