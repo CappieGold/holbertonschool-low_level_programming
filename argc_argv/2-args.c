@@ -3,7 +3,7 @@
 /**
  * main - Write a program that prints all arguments it receives.
  * @argc: argument
- * @argv: argument 
+ * @argv: argument
  * Return: always 0 (Success)
  */
 
