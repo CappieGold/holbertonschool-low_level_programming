@@ -5,7 +5,6 @@
  * print_name - Write a function that prints a name.
  * @name: name of the person
  * @f: pointer of function printname
- * @char: argument of f
 */
 
 void print_name(char *name, void (*f)(char *))
