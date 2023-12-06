@@ -2,19 +2,19 @@
 
 ## TASKS
 
-0. >>> ht = {}
+0. `>>> ht = {}
    - Write a function that creates a hash table.
 0. djb2
    - Write a hash function implementing the djb2 algorithm.
 0. key -> index
    - Write a function that gives you the index of a key.
-0. >>> ht['betty'] = 'cool'
+0. `>>> ht['betty'] = 'cool'
    - Write a function that adds an element to the hash table.
-0. >>> ht['betty']
+0. `>>> ht['betty']
    - Write a function that retrieves a value associated with a key.
-0. >>> print(ht)
+0. `>>> print(ht)
    - Write a function that prints a hash table.
-0. >>> del ht
+0. `>>> del ht
    - Write a function that deletes a hash table.
 
 ## Learning Objectives
